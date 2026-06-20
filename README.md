@@ -1,2 +1,14 @@
 # bsportsportal-guide
-HTML page archive and documentation
+
+GitHub Pages 发布仓库
+
+此仓库用于存放发布任务生成的静态页面，方便后续检查和维护。
+
+## 仓库内容
+
+- 页面文件保存在根目录
+- 后续任务会继续追加新的 HTML 文件
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
